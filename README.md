@@ -2,12 +2,14 @@
 Natural Language Processing is the one widely used in almost every domain, somewhat depth knowledge is required before hands-on.
 `This repo provides Fundamentals of NLP using spacy.` 
 
+You can find detailed explantion of the each task in my medium blog [Here](https://medium.com/@manimannu93/clear-the-fundamentals-of-nlp-with-code-7d419daefccf)
+
 ![spaCy_poster](https://github.com/Manikanta-Munnangi/Natural-Language-Processing-with-spaCy/blob/master/Images/spacy%20poster.jpg)
 
 # NLP Tasks:
 || Task  | Description | Applications|Documentation link|
 |--| ------------- | --|------------- |--|
-|1| <p align="Justify">Tokenization</p>|<p align="Justify">A Process of converting setences or phrases into a tokens(words) which includes punctuations,special characters..etc </p>| Beginning step to all NLP projects  |https://spacy.io/usage/linguistic-features|
+|1| <p align="Justify">Tokenization</p>|<p align="Justify">A Process of converting setences or phrases into a tokens(words) with punctuations,special characters..etc </p>| Beginning step to all NLP projects  |https://spacy.io/usage/linguistic-features|
 |2| <p align="Justify">Stop words</p>|  <p align="Justify">A process of Removing most commonly spelled words like "a","the","is","but"..etc because they don't provide much meaning to context </p>|For efficient searches in search engines  |https://spacy.io/usage/linguistic-features|
 |3| <p align="Justify">Lemmatization</p>|  <p align="Justify"> Downscaling same category of tree words to its root or base form</p>| Text Normalization |https://spacy.io/usage/linguistic-features|
 |4| <p align="Justify">Part-Of-Speech tagging</p>|  <p align="Justify">Assigning properties of each individual words with part-of-speech, grammatical correcting sentences</p>| Information filtering |https://spacy.io/usage/linguistic-features|
@@ -32,7 +34,8 @@ The question is how do we process, analyze and convert this data that are meanin
 # 1. What is Natural Language Processing?
 With the help of a Bunch of Algorithms and rules the computer able to understand and communicate with humans in vast human languages and scales other language-related tasks. With NLP, it is possible to perform certain tasks like Automated Speech and Automated Text Writing in less time. Due to the evolving of large data (text), why not to use the computers which have high computing power, capable of working all day and ability to run several algorithms to perform tasks in no time.
 
-## Challenges and issues of NLP:
+## NLP Pipeline:
+![pipeline](https://github.com/Manikanta-Munnangi/Natural-Language-Processing-with-spaCy/blob/master/Images/nlp%20pipeline.jpg)
 
 
 # Conclusions:
