@@ -29,7 +29,8 @@ You can find detailed explantion of the each task in my medium blog [Here](https
 # Introduction:
 <p align="justify"> 1 billion gigabytes of data is generated per day. You may be wondering that’s a big number. it because data comes from everywhere sensors used to gather shopper information, posts to social media sites, digital pictures, and videos purchase transactions, and cell phone GPS signals and the list goes on.
 The question is how do we process, analyze and convert this data that are meaningful to us which helps in addressing our own needs and solve new technical problems.</p>
-*Natural Language Processing will help to analyze text-related problems.*
+
+**Natural Language Processing will help to analyze text-related problems**
 
 # 1. What is Natural Language Processing?
 With the help of a Bunch of Algorithms and rules the computer able to understand and communicate with humans in vast human languages and scales other language-related tasks. With NLP, it is possible to perform certain tasks like Automated Speech and Automated Text Writing in less time. Due to the evolving of large data (text), why not to use the computers which have high computing power, capable of working all day and ability to run several algorithms to perform tasks in no time.
